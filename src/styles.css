@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  margin: 5px;
+}
+
+img {
+  max-width: 200px;
+}
+
+.gallery__container {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.search {
+  margin: 20px auto;
+}
